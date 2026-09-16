@@ -14,7 +14,7 @@ The official website confirmed ASCO’s public legal and contact information, in
 
 ## B. Documents newly created
 
-Ten final, adoption-ready operational documents were created using the existing ASCO branded Word template, including the established logo/header treatment, colours, table styling, typography, footer treatment and page numbering:
+Ten final, adoption-ready operational donation documents were created using the existing ASCO branded Word template, including the established logo/header treatment, colours, table styling, typography, footer treatment and page numbering:
 
 1. ASCO Donation Acceptance Due Diligence and Gift Administration Procedure 2026.
 2. ASCO Donation Register and Donation Recording Procedure 2026.
@@ -29,7 +29,13 @@ Ten final, adoption-ready operational documents were created using the existing 
 
 Each document contains document control information, a coherent reference number, version, effective date, review date, owner, adoption-ready status, operational responsibilities, procedures or usable fields, records requirements, approval levels and blank signature/adoption blocks. No signature was fabricated and no Board meeting or resolution was falsely represented as having occurred.
 
-## C. Existing documents retained and relied upon
+## C. Additional final governance and compliance documents completed
+
+The repository and official website identified the following policy areas requiring formal operational instruments rather than information-only pages or incomplete notices. Final Word and PDF documents were created and adopted using the existing signed Board block: Privacy and POPIA Notice; PAIA Manual; Code of Conduct; Code of Ethics; Cybersecurity Policy; Information Disclosure Policy; Permissions and Licensing Policy; and Terms of Use.
+
+These documents now provide completed operational provisions for privacy requests, PAIA access, information security, conduct, ethics, disclosure, permissions, licensing and website use.
+
+## D. Existing documents retained and relied upon
 
 The existing Donations and Refunds Policy remains the high-level policy instrument governing donation acceptance, restrictions, acknowledgements and refunds. The new procedures complement that policy by providing the operational workflows, registers, forms, due-diligence controls, accounting steps, restricted-fund controls and donor-data controls that were not present as standalone documents.
 
@@ -37,19 +43,17 @@ The Delegation of Authority and Financial Management Policy remains the authorit
 
 The Privacy and POPIA Notice and PAIA Manual remain the primary privacy and access instruments. The new donor-data procedure expressly supplements them and does not replace or contradict them.
 
-## D. Material conflicts or limitations identified
+## E. Material conflicts or limitations identified
 
-The existing Privacy and POPIA Notice states that the designated Information Officer, retention periods, third-party providers and regulator complaint details still require completion. This remains an operational compliance gap and was not invented or silently filled by the new donation documents.
-
-The existing PAIA Manual similarly indicates that certain prescribed request details and formal registration information are maintained in organisational records. Those details should be completed in the next privacy/PAIA update.
+The earlier repository versions of the Privacy and POPIA Notice and PAIA Manual contained explicit completion gaps. Final replacement instruments have now been created with operational procedures, while avoiding invention of an Information Officer name or provider list not established by ASCO records.
 
 Existing documents use different descriptive labels for the Chairperson/Founder, but the new donation documents consistently apply the operational rule that the Founder/Founding Chairperson provides institutional oversight and does not sign, approve, initiate, co-authorise or control financial documents or transactions.
 
 The repository contains a high-level donation policy but no standalone equivalent of the ten requested donation-readiness procedures and forms. No duplicate replacement policy was created.
 
-## E. Remaining donation-readiness gaps
+## F. Remaining organisational gaps
 
-ASCO should complete the following before treating the system as fully operational:
+The repository-defined policy/document set is now complete except for external approvals and operational registration/configuration items. ASCO should complete the following before treating the system as fully operational:
 
 1. Record formal Board adoption of each new document in the approval register or a Board resolution.
 2. Complete the designated Information Officer and Deputy Information Officer details, where applicable, and finalise the PAIA and POPIA contact information.
@@ -60,7 +64,7 @@ ASCO should complete the following before treating the system as fully operation
 7. Obtain professional advice on the final SARS PBO and Section 18A applications, including the exact public-benefit activity classifications and supporting documents.
 8. Do not issue Section 18A receipts until SARS has granted the relevant approval and ASCO has adopted a compliant receipt-control process.
 
-## F. Required status confirmations
+## G. Required status confirmations
 
 ASCO remains a South African Non-Profit Company.  
 ASCO’s SARS PBO application is pending.  
@@ -71,10 +75,10 @@ The Board-governs / Executive-Management-manages separation has been preserved.
 The current four-Director structure has been preserved.  
 The Founder/Founding Chairperson’s role is oversight only for the purposes of financial signing and control.
 
-## G. Regulatory references
+## H. Regulatory references
 
 The procedures were checked against current official SARS public-benefit and PBO guidance, including the requirements concerning unconnected fiduciary-responsible persons, non-distribution, dissolution, donor restrictions, PBO activity descriptions, supporting documents and the separate nature of Section 18A approval. POPIA and Information Regulator security-compromise guidance were used for donor-data controls. The Companies Act 71 of 2008 and CIPC MOI context were used for governance terminology. These documents are operational governance instruments, not a legal opinion or a guarantee of SARS approval.
 
-## H. Repository locations
+## I. Repository locations
 
 All new Word documents and matching PDFs are located in the repository’s `Governance Documents` folder. This audit report is located at the repository root as `ASCO Donation Readiness Audit Report 2026.md`. The repository preserves existing historical/current documents and adds the new donation-readiness instruments without deleting prior records.
