@@ -19,7 +19,7 @@ Current ASCO documents now reflect:
 - **Ms Angel Nokukhanya Gumede — Head of Humanitarian Affairs & Emergency Response:** non-director senior-management position.
 - **Ms Thando Mathe — Head of Social Protection, Inclusion & Safeguarding:** non-director senior-management position.
 - **Mr Maguqu Meshack Mzimela — Head of Programmes, Research & Strategic Partnerships:** non-director senior-management position.
-- **Current organisational WhatsApp/contact number in current documents:** +27 78 287 2814.
+- **Current organisational WhatsApp/contact number in current documents:** +27 76 757 5773.
 - **Completed campaign:** Operation Protect Our Aquatic Ecosystem, Richards Bay Beachfront, King Cetshwayo District, KwaZulu-Natal, 22 September 2026, sponsored by SPAR Empangeni.
 
 ## Documents updated
@@ -68,7 +68,7 @@ The following current documents were harmonised and synchronized as Word and PDF
 - PBO reference 930092287 was checked across current documents.
 - Outdated current-facing pending-PBO wording was removed from applicable documents.
 - Section 18A pending wording was retained.
-- The old organisational number 076 757 5773 was not retained in the current repository documents; current documents use +27 78 287 2814 where a phone/WhatsApp contact is stated.
+- The current organisational number in the repository documents is +27 76 757 5773.
 - The exact four-Director structure was retained.
 - No fifth, sixth or seventh Director was added.
 - The three named non-director senior-management positions were reconciled with the current website listing and are not CIPC Directors.
@@ -99,7 +99,7 @@ The live website was rechecked at:
 - https://www.africansolidaritycivic.org/programs
 - https://www.africansolidaritycivic.org/documents
 
-The earlier website issue concerning the old WhatsApp number is now **resolved**. The live website uses **+27 78 287 2814**. The website also now records SARS PBO approval under reference **930092287**, states that Section 18A remains pending, and identifies **Mr. Bhekisisa (Mdu) Shandu** as the SARS Registered Representative.
+The earlier website contact-number issue is now recorded for follow-up. The current document set uses **+27 76 757 5773**; the website should be updated to the same number for full public consistency. The website also now records SARS PBO approval under reference **930092287**, states that Section 18A remains pending, and identifies **Mr. Bhekisisa (Mdu) Shandu** as the SARS Registered Representative.
 
 The website now accurately presents ASCO as having four Directors and states that the Board governs while Executive Management manages. It also records the Richards Bay environmental campaign, the 22 September 2026 date, King Cetshwayo District, SDG 14 and SPAR Empangeni as the specific campaign sponsor.
 
@@ -114,3 +114,8 @@ The live website’s expanded leadership listing is more detailed than the curre
 The current repository has now been reconciled to record the three named positions as non-director senior-management roles: Ms Angel Nokukhanya Gumede, Ms Thando Mathe and Mr Maguqu Meshack Mzimela. These roles do not amend the MOI or CIPC Director records. The website’s four-Director structure is consistent with the current MOI and governance documents.
 
 The public Documents page expressly states that the Constitution, Institutional Profile, Board Charter and MOI remain identifiable by their original titles and dates, and that documents created during an earlier application or approval stage are not restated as though created later. This is consistent with preserving the signed MOI and original adoption dates while updating current status information in related documents.
+
+
+## Contact-number update — 2 October 2026
+
+At the organisation’s instruction, the current document set was updated from **+27 78 287 2814** to **+27 76 757 5773**.
