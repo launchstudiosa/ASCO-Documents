@@ -16,8 +16,9 @@ Current ASCO documents now reflect:
 - **Board:** exactly four Directors.
 - **Governing principle:** Board governs; Executive Management manages.
 - **Treasurer & Finance Officer:** non-director senior officer.
-- **Head of Programmes & Community Development:** non-director senior-management position.
-- **Head of Partnerships, Gender & Inclusion:** approved/planned non-director position, **VACANT**.
+- **Ms Angel Nokukhanya Gumede — Head of Humanitarian Affairs & Emergency Response:** non-director senior-management position.
+- **Ms Thando Mathe — Head of Social Protection, Inclusion & Safeguarding:** non-director senior-management position.
+- **Mr Maguqu Meshack Mzimela — Head of Programmes, Research & Strategic Partnerships:** non-director senior-management position.
 - **Current organisational WhatsApp/contact number in current documents:** +27 78 287 2814.
 - **Completed campaign:** Operation Protect Our Aquatic Ecosystem, Richards Bay Beachfront, King Cetshwayo District, KwaZulu-Natal, 22 September 2026, sponsored by SPAR Empangeni.
 
@@ -53,7 +54,7 @@ The following current documents were harmonised and synchronized as Word and PDF
 
 ## New final document created
 
-- **ASCO Strategic Plan 2027–2029 — October 2026 Edition**, including the approved PBO status, four-Director structure, senior non-director leadership positions, vacant partnerships position, Section 18A objective, environmental campaign record and sponsor identification.
+- **ASCO Strategic Plan 2027–2029 — October 2026 Edition**, including the approved PBO status, four-Director structure, named non-director senior-management positions, Section 18A objective, environmental campaign record and sponsor identification.
 
 ## Documents intentionally preserved
 
@@ -70,7 +71,7 @@ The following current documents were harmonised and synchronized as Word and PDF
 - The old organisational number 076 757 5773 was not retained in the current repository documents; current documents use +27 78 287 2814 where a phone/WhatsApp contact is stated.
 - The exact four-Director structure was retained.
 - No fifth, sixth or seventh Director was added.
-- The vacant Head of Partnerships, Gender & Inclusion position was not assigned to a person.
+- The three named non-director senior-management positions were reconciled with the current website listing and are not CIPC Directors.
 - The Richards Bay campaign and SPAR Empangeni sponsorship were included without inventing participant, waste, beneficiary or impact figures.
 - The Strategic Plan adoption page includes the existing ASCO four-signature block dated 6 September 2026.
 - No document is marked Draft.
@@ -108,8 +109,8 @@ The live website’s expanded leadership listing is more detailed than the curre
 
 - Ms Angel Nokukhanya Gumede — Head of Humanitarian Affairs & Emergency Response;
 - Ms Thando Mathe — Head of Social Protection, Inclusion & Safeguarding; and
-- Head of Programmes, Research & Strategic Partnerships — Vacant.
+- Mr. Maguqu Meshack Mzimela — Head of Programmes, Research & Strategic Partnerships.
 
-The current repository update records the supplied positions of Treasurer & Finance Officer, Head of Programmes & Community Development, and Head of Partnerships, Gender & Inclusion — VACANT. These should be reconciled through a formal organisational decision before changing the MOI or other controlling governance documents. The website’s four-Director structure is consistent with the current MOI and governance documents.
+The current repository has now been reconciled to record the three named positions as non-director senior-management roles: Ms Angel Nokukhanya Gumede, Ms Thando Mathe and Mr Maguqu Meshack Mzimela. These roles do not amend the MOI or CIPC Director records. The website’s four-Director structure is consistent with the current MOI and governance documents.
 
 The public Documents page expressly states that the Constitution, Institutional Profile, Board Charter and MOI remain identifiable by their original titles and dates, and that documents created during an earlier application or approval stage are not restated as though created later. This is consistent with preserving the signed MOI and original adoption dates while updating current status information in related documents.
