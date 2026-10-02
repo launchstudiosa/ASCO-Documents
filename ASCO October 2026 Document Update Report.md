@@ -118,4 +118,4 @@ The public Documents page expressly states that the Constitution, Institutional 
 
 ## Contact-number update — 2 October 2026
 
-At the organisation’s instruction, the current document set was updated from **+27 78 287 2814** to **+27 76 757 5773**.
+At the organisation’s instruction, the current document set was updated to **+27 76 757 5773**.
