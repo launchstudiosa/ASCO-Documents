@@ -2,6 +2,7 @@
 
 **Organisation:** African Solidarity Civic Organisation NPC (ASCO NPC)  
 **Update:** October 2026 production harmonisation  
+**Last updated:** 2 October 2026  
 **Primary sources:** ASCO-Documents repository, official ASCO website and document library, and the supplied organisational update.
 
 ## Final status
@@ -84,3 +85,6 @@ The following current documents were harmonised and synchronized as Word and PDF
 ## Repository integration
 
 The final Word and synchronized PDF files are in the repository’s `Governance Documents` folder, with the Strategic Plan at repository root. This report and the document register are also at repository root.
+
+
+Where a current PBO-harmonised document contained a typed approval/signature date for the updated version, that date was updated to 2 October 2026. Historical records and original adoption dates were preserved where they document the earlier approval event.
