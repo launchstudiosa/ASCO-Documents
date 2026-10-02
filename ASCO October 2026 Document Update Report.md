@@ -88,3 +88,28 @@ The final Word and synchronized PDF files are in the repository’s `Governance 
 
 
 Where a current PBO-harmonised document contained a typed approval/signature date for the updated version, that date was updated to 2 October 2026. Historical records and original adoption dates were preserved where they document the earlier approval event.
+
+## Live website re-audit — 2 October 2026
+
+The live website was rechecked at:
+
+- https://www.africansolidaritycivic.org/
+- https://www.africansolidaritycivic.org/about
+- https://www.africansolidaritycivic.org/programs
+- https://www.africansolidaritycivic.org/documents
+
+The earlier website issue concerning the old WhatsApp number is now **resolved**. The live website uses **+27 78 287 2814**. The website also now records SARS PBO approval under reference **930092287**, states that Section 18A remains pending, and identifies **Mr. Bhekisisa (Mdu) Shandu** as the SARS Registered Representative.
+
+The website now accurately presents ASCO as having four Directors and states that the Board governs while Executive Management manages. It also records the Richards Bay environmental campaign, the 22 September 2026 date, King Cetshwayo District, SDG 14 and SPAR Empangeni as the specific campaign sponsor.
+
+### Remaining website/document harmonisation item
+
+The live website’s expanded leadership listing is more detailed than the current repository documents. The website identifies:
+
+- Ms Angel Nokukhanya Gumede — Head of Humanitarian Affairs & Emergency Response;
+- Ms Thando Mathe — Head of Social Protection, Inclusion & Safeguarding; and
+- Head of Programmes, Research & Strategic Partnerships — Vacant.
+
+The current repository update records the supplied positions of Treasurer & Finance Officer, Head of Programmes & Community Development, and Head of Partnerships, Gender & Inclusion — VACANT. These should be reconciled through a formal organisational decision before changing the MOI or other controlling governance documents. The website’s four-Director structure is consistent with the current MOI and governance documents.
+
+The public Documents page expressly states that the Constitution, Institutional Profile, Board Charter and MOI remain identifiable by their original titles and dates, and that documents created during an earlier application or approval stage are not restated as though created later. This is consistent with preserving the signed MOI and original adoption dates while updating current status information in related documents.
