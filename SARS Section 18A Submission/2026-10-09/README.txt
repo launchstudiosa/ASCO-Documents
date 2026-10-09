@@ -8,8 +8,9 @@ Date prepared: 9 October 2026
 Contents:
 00 SARS request for supporting documents.
 01 Founding document: ASCO Memorandum of Incorporation, 2026.
-02 Signed explanation of objectives and activities. This document confirms ASCO’s approved SARS PBO status and clearly distinguishes it from the pending Section 18A application.
+02 Signed explanation of objectives and activities. This document confirms ASCO’s approved SARS PBO status and distinguishes it from the pending Section 18A application.
 03 Signed explanation that annual financial statements for a completed financial year are not yet available.
+04 Updated harmonised ASCO Constitution, included as a supplementary governing document. It now reflects ASCO’s approved PBO status and pending Section 18A application.
 
 Important note:
 SARS requested annual financial statements. ASCO has not completed its first financial year and reports that it has not undertaken financial transactions. No annual financial statements have been invented or substituted. The signed explanation in file 03 respectfully asks SARS whether alternative supporting information is required.
