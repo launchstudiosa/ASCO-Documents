@@ -1,4 +1,7 @@
 # ASCO October 2026 Document Update Report
+> **ASCO status:** CIPC-registered NPC 2026/521895/08 | SARS PBO Exemption Reference **930092287** | Section 18A approval effective **9 October 2026**.
+>
+
 
 **Organisation:** African Solidarity Civic Organisation NPC (ASCO NPC)  
 **Update:** October 2026 production harmonisation  

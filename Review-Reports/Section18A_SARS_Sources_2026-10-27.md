@@ -1,4 +1,7 @@
 # SARS Section 18A Sources — 27 October 2026
+> **ASCO status:** CIPC-registered NPC 2026/521895/08 | SARS PBO Exemption Reference **930092287** | Section 18A approval effective **9 October 2026**.
+>
+
 
 - SARS Section 18A and IT3(d) Third Party Data: https://www.sars.gov.za/businesses-and-employers/tax-exempt-institutions/section-18a-and-it3d-third-party-data/
   - Approved Section 18A entities must submit IT3(d) third-party data.
